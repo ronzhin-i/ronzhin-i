@@ -29,7 +29,7 @@
 
 - :zap: В аналитике мне нравится из разрозненных данных получать новую информацию, которой еще ни у кого нет, и с которой еще никто не работал. А информации, как и патронов, не бывает много.
 
-- :mailbox: Со мной можно связаться: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/@I_Ronzhin))
+- :mailbox: Со мной можно связаться: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/@I_Ronzhin)
   
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
