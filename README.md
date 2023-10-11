@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"
-  <a href="@I_Ronzhin">
+  <a href="http://t.me/@I_Ronzhin">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
@@ -29,7 +29,7 @@
 
 - :zap: В аналитике мне нравится из разрозненных данных получать новую информацию, которой еще ни у кого нет, и с которой еще никто не работал. А информации, как и патронов, не бывает много.
 
-- :mailbox: Со мной можно связаться: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](@I_Ronzhin)
+- :mailbox: Со мной можно связаться: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)]([@I_Ronzhin](http://t.me/@I_Ronzhin))
   
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
