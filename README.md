@@ -46,5 +46,5 @@
 ### :man_student: Мои курсы :
 ![Сертфикат: Аналитик Данных. Karpov.Courses](https://github.com/ronzhin-i/ronzhin-i/blob/main/Karpov_courses.jpg)
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ronzhin-i&hide_border=true" alt="GitHub Streak" /></a>
