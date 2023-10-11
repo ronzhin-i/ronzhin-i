@@ -4,7 +4,10 @@
 
 <div align="center">
   <a href="https://t.me/@I_Ronzhin)">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="https://t.me/@I_Ronzhin"/>
+  </a>
+  <a href="https://il_ronzhin@mail.ru)">
+  <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=mail.ru&logoColor=yellow" alt="il_ronzhin@mail.ru"/>
   </a>
 </div>
 
